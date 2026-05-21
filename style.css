@@ -1,6 +1,14 @@
 body {
-  background-color: #271300;
+  background-color: #9c6f44;
   background-repeat: repeat;
+}
+
+p {
+  color: #271300;
+}
+
+h1 {
+  color: #271300;
 }
 
 .box {
