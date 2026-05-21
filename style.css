@@ -2,9 +2,6 @@ body {
   background-image: url('images/CoffeeBean.bmp');
   background-repeat: repeat;
 }
-p {
-  color: #000000;
-}
 
 .box {
   border: 1px solid black;
